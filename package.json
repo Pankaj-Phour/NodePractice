@@ -1,0 +1,30 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "process arguments from user in node js",
+  "main": "processArguments.js",
+  "scripts": {
+    "start": "node processArguments.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pankaj-Phour/NodePractice.git"
+  },
+  "keywords": [
+    "Pankaj",
+    "Phour",
+    "Node",
+    "Practice"
+  ],
+  "type": "module",
+  "author": "Pankaj Phour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pankaj-Phour/NodePractice/issues"
+  },
+  "homepage": "https://github.com/Pankaj-Phour/NodePractice#readme",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
