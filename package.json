@@ -1,10 +1,10 @@
 {
   "name": "nodepractice",
   "version": "1.0.0",
-  "description": "process arguments from user in node js",
-  "main": "processArguments.js",
+  "description": "path module use  in node js",
+  "main": "pathModule.js",
   "scripts": {
-    "start": "node processArguments.js",
+    "start": "node pathModule.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
