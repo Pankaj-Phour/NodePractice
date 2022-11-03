@@ -2,9 +2,9 @@
   "name": "nodepractice",
   "version": "1.0.0",
   "description": "path module use  in node js",
-  "main": "pathModule.js",
+  "main": "fileSystem.js",
   "scripts": {
-    "start": "node pathModule.js",
+    "start": "node fileSystem.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,7 +17,6 @@
     "Node",
     "Practice"
   ],
-  "type": "module",
   "author": "Pankaj Phour",
   "license": "ISC",
   "bugs": {

@@ -3,7 +3,8 @@
 // We can directly use it in our file just by importing or requiring it at the top of our file 
 
 
-import path from 'path';
+// import path from 'path';
+const path = require('path');
 
 // path.basename() takes an argument (path of any file) and returns the name of the file as you can see below 
 console.log(path.basename('C:/Users/ASTR 52/Desktop/nodePractice/app.js'))      /* It will return app.js  */
