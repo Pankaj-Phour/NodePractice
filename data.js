@@ -9,4 +9,4 @@ const data = [
     {name:"Saurav",age:35,contact:8723658723465},
 ]
 
-export default  data
+module.exports  = data

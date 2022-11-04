@@ -5,8 +5,10 @@
 // It will always return path of our project and path of file we are working in along with extra arguments passed at the time of running project(if any) 
 
 
-import http from 'http'
-import data from './data.js'
+// import http from 'http'
+// import data from './data.js'
+const http = require('http');
+const data = require('./data');
 const a = process.argv
 // console.log(a)
 // In the above line a will be an array of items 
