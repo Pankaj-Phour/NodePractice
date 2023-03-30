@@ -4,7 +4,7 @@
   "description": "path module use  in node js",
   "main": "fileSystem.js",
   "scripts": {
-    "start": "node fileSystem.js",
+    "start": "node stream.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

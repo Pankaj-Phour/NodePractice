@@ -1,0 +1,80 @@
+{
+    "code": 200,
+    "error": false,
+    "message": "Success",
+    "response": [
+        {
+            "_id": "631c1e052ba928c6ac8c889b",
+            "channel": "Disney",
+            "name": "Cunning Fox",
+            "type": [
+                "Entertainment"
+            ],
+            "complete": 49,
+            "score": 95
+        },
+        {
+            "_id": "631c1ee42ba928c6ac8c88a8",
+            "channel": "Random",
+            "name": "Coding",
+            "type": [
+                "Education"
+            ],
+            "complete": 34,
+            "score": 86
+        },
+        {
+            "_id": "631c1f4f2ba928c6ac8c88ac",
+            "channel": "Coding",
+            "name": "Angular",
+            "type": [
+                "Education"
+            ],
+            "complete": 43,
+            "score": 51
+        },
+        {
+            "_id": "631c1f8a2ba928c6ac8c88b0",
+            "channel": "Office",
+            "name": "Friends",
+            "type": [
+                "Entertainment"
+            ],
+            "complete": 100,
+            "score": 41
+        },
+        {
+            "_id": "631c1fc22ba928c6ac8c88b4",
+            "channel": "Hallucination",
+            "name": "View",
+            "type": [
+                "Entertainment",
+                "Education"
+            ],
+            "complete": 100,
+            "score": 5
+        },
+        {
+            "_id": "631c213b2ba928c6ac8c88c3",
+            "channel": "Developer",
+            "name": "Programming",
+            "type": [
+                "Entertainment",
+                "Education"
+            ],
+            "complete": 53,
+            "score": 70
+        },
+        {
+            "_id": "631c249b2ba928c6ac8c88ce",
+            "channel": "Chundan",
+            "name": "Coding",
+            "type": [
+                "Entertainment",
+                "Education"
+            ],
+            "complete": 33,
+            "score": 37
+        }
+    ]
+}
